@@ -1,0 +1,33 @@
+h1{
+	text-align: center;
+	font-family: 'Kaushan Script', cursive;
+	font-size: 150px;
+	padding: 75px;
+}
+
+hr {
+	background-color: black;
+	padding: 3px;
+	margin-top: 5px;
+	width: 725px;
+}
+
+#questionContainer {
+	height: 50px;
+}
+#question {
+	height: 40px;
+}
+
+#gameBox { 
+	display: inline-flex;
+	flex-direction: row;
+	flex-wrap: wrap; 
+	justify-content: center;
+	align-self: center;
+	height: 300px;
+	width: 50px;
+	background-color: blue;
+
+}
+
