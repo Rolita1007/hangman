@@ -31,23 +31,3 @@ $(document).ready(function(){
 
 
 
-//var remaningLetters = selectedWord.length;
-
-// 	while(remaningLetters > 0) {
-// 		alert(answerKey.join (""));
-
-// 	var guess = prompt ("Guess a letter") 
-// 		if (guess.length !==1) {
-// 			alert("Please enter a letter");
-// 		}else{
-// 			for (var j = 0; j < words.length; j++){
-// 				if(words[j] === guess) {
-// 					answerKey[j] = guess;
-// 					remaningLetters--;  
-// 				}
-// 			}
-// 		}
-	
-// }
-// 	alert(answerKey.join(""));
-// 	alert("Good job!")
