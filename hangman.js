@@ -1,6 +1,7 @@
 $(document).ready(function(){
 	var words = ["HAWAII", "PUERTO RICO"];
 	var letter;
+	var score = 8;
 	var selectedWord = words[Math.floor(Math.random() * words.length)];
 	console.log(selectedWord);
 	
@@ -15,15 +16,20 @@ $(document).ready(function(){
 		letter = event.target.innerHTML;
 		console.log(letter);
 
+		//if (selectedWord.index(letter) > -1)
+
 		for (var i = 0; i < selectedWord.length; i++) {
 			if(selectedWord[i] === letter){
 				answerKey[i] = letter;
 				console.log(answerKey.join(" "));
+
 			}	
 		}
 
 		$('#question').html(answerKey.join(" "));
 	})
+
+
 	
 	
 });
