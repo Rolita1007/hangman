@@ -1,6 +1,7 @@
 # hangman
 This is my wireframe
-<img width="982" alt="screen shot 2017-06-26 at 1 26 30 pm" src="https://user-images.githubusercontent.com/22422858/27551862-23fb1a06-5a73-11e7-9206-5302b37b5cec.png">
+
+<img width="1035" alt="screen shot 2017-06-26 at 1 32 24 pm" src="https://user-images.githubusercontent.com/22422858/27552071-f4ba5b02-5a73-11e7-9f5d-dfc5198d2cea.png">
 
 The technologies used were
 HTML
