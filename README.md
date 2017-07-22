@@ -4,6 +4,8 @@
 
 ## Checkout my [site](http://juggler-vivian-71626.bitballoon.com/)
 
+<img width="806" alt="screen shot 2017-07-21 at 9 23 20 pm" src="https://user-images.githubusercontent.com/22422858/28487247-e620c28e-6e5a-11e7-9500-13fed5c6ed85.png">
+
 # The technologies that were used for this application were:
 * HTML
 * CSS
