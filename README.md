@@ -4,7 +4,7 @@
 
 ##### The player guessing the word may, at any time attempt to guess the whole word. If the word is correct, the game is over and the player wins. Otherwise, if the the player makes enough incorrect guesses to allow the hangman to be displayed, the game is over. However, the player can also win by guessing all the letters that appears in the word, thereby completing the word, before the hangman is completed.
 
-## You can play here [(http://juggler-vivian-71626.bitballoon.com/)]
+## You can play [here](http://juggler-vivian-71626.bitballoon.com/)
 
 <img width="806" alt="screen shot 2017-07-21 at 9 23 20 pm" src="https://user-images.githubusercontent.com/22422858/28487247-e620c28e-6e5a-11e7-9500-13fed5c6ed85.png">
 
