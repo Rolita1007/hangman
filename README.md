@@ -16,7 +16,7 @@
 * jQuery
 * Bootstrap
 
-### A screenshot of the game
+# Here is a screenshot of the game
 
 <img width="806" alt="screen shot 2017-07-21 at 9 23 20 pm" src="https://user-images.githubusercontent.com/22422858/28487247-e620c28e-6e5a-11e7-9500-13fed5c6ed85.png">
 
